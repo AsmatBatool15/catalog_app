@@ -11,30 +11,30 @@
     },
     {
       "id": 2,
-      "name": "iphone 12 pro max",
-      "desc": "apple iphone 12th generation",
-      "price": 999,
-      "color": "#33505a",
+      "name": "Pixel 5",
+      "desc": "Google pixel phone 5th generation",
+      "price":699,
+      "color": "#00ac51",
       "image":
-      "https://propakistani.pk/price/wp-content/uploads/2019/11/Apple-iPhone-12-Pro-Max-price-1.png"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe0uL0EhdlZCwmKCzuBq3J8RxNhKI0qjbudg&usqp=CAU"
     },
     {
       "id": 3,
-      "name": "iphone 12 pro",
-      "desc": "apple iphone 12th generation",
-      "price": 999,
-      "color": "#33505a",
+      "name": "Mi Macbook Air",
+      "desc": "Apple Macbook Air with Apple Silicon",
+      "price": 1099 ,
+      "color": "#e0bfae",
       "image":
-      "https://propakistani.pk/price/wp-content/uploads/2019/11/Apple-iPhone-12-Pro-Max-price-1.png"
+      "https://rocket.pk/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/d/o/download_2__250_2.png"
     },
     {
       "id": 4,
-      "name": "iphone 12 pro",
-      "desc": "apple iphone 12th generation",
-      "price": 999,
-      "color": "#33505a",
+      "name": "Galaxy S21 Ultra",
+      "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+      "price": 1299,
+      "color": "#1c1c1c",
       "image":
-      "https://propakistani.pk/price/wp-content/uploads/2019/11/Apple-iPhone-12-Pro-Max-price-1.png"
+      "https://images.samsung.com/is/image/samsung/p6pim/pk/galaxy-s21/gallery/pk-galaxy-s21-5g-g991-366070-sm-g991bzagmea-362622379"
     }
   ]
 }

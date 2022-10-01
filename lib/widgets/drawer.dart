@@ -14,12 +14,9 @@ class MyDrawer extends StatelessWidget {
         color: Colors.deepPurple,
         child: ListView(
           padding: EdgeInsets.zero,
-          // ignore: prefer_const_literals_to_create_immutables
-          children: [
-            // ignore: prefer_const_constructors
+          children: [  
             DrawerHeader(
               padding: EdgeInsets.zero,
-              // ignore: prefer_const_constructors
               child: UserAccountsDrawerHeader(
                 margin: EdgeInsets.zero,
                 accountName: Text("Asmat BATOOL"),
